@@ -1,0 +1,8 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+commonLabels:
+  app: port-backend-server
+kind: Kustomization
+resources:
+- deployment.yaml
+images:
+- name: gcr.io/superb-leaf-313807/port-backend-server

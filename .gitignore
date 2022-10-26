@@ -1,0 +1,8 @@
+.idea
+
+venv
+backups/*
+PORT-v2-BackEndServer.sqlite3
+media/livers/*
+token.pickle
+client_secret_1005541698837-gk1ft2onujvjh812cvqgbonh2d16uvud.apps.googleusercontent.com.json

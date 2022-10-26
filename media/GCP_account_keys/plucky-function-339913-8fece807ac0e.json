@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plucky-function-339913",
+  "private_key_id": "8fece807ac0e1a4259bcaf0ec7b8fc277295dc5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCflbgarlfc8273\nBy10qv2RrtroIB5gJ7rGiBJhIPlsES4QqXieR5ISQtXBBlHvI7lCLqy/9xs0pxC7\n96k/WwbBENw3i6ym93mKICAreMKA5rTkTGempYlWh/3JQMwamSjPjfwt6XxweSnr\nQ6J2N2pavUfMe5iWSleUnN1O9TD37ulfaAcfxfuSwolUkfEqlMijlP7rued3zFzh\nz1jPoUBbM42R8ixJeIkJu/2PyXyDrQMc//6OxrOTKA/A9UuUoyZoc647te/QW6Uw\nzoR4vCo32nHbpg1BzpeCohm+tsn/Dps/gKmkv46rM3B/DXzTUToI3EpEW4uFYtZC\nFanN1YqbAgMBAAECggEARoqufnDJmvwqdVzBXZyGCONDla847iUxvTeB9FhYmMoB\nVFEtZb3aVmMfzLrH9g8TAavTJeoLpxsgXQ5tTHmmwyn6Rj1iHM4w9fscbUrso4EX\nvgD+Il5zFoJ3jwIrFqjULuci7YKTxL3yZzIW+u2lACZCOiP6P5juHN24QAJHWpiY\nvQ1YmTM22mMsVdwbjDZM34DovaPJ2IQ3bAXHGmcbvPVDCHIr5diB9vN0O1LA+VQm\nne9LyyhBuhFXiG9A2pGHx3q/zqDfMu8G5wjxDqwmkU2mkzbNF4MbR8wNjGc3uuOf\nRF+gT5riRRyqUe1UrVFociRI760fr1LXv8Y2aO/v3QKBgQDURtLuF1PhDCd1VRM+\nGHqxsnliskBqwIS1TFKLMAtxktbwnn5hyt2apO9ZeymgiAEk+pXISR5eUWAvqNCB\nNO7HGfe4YrhNwbXBWD3DdQQ+Q1PYnPRP1s/egDI0IOLmBfe9MPNx9BoCqKPTWNJz\ntVwmb36SG8xpaXgiws/XnK2cHQKBgQDAdH+cDXZZaZ28bb1riaqPAFy7Qlr5OrOR\nFUfBGrZEzrTnBjhUOdwJ4rnDhQ1B27vYY8Ou8u4/Pc22E7EauGfhsLOTvv7YX/RC\n51r3rI3VfOGemwy0PPLdjQXfmDWiUqgmFPWVeUptMQD4NCf8ns/BjprrImLSagMy\nQ/2pcZ9UFwKBgQCGj/7V/uOlHVdGAZAZJNtiGYjpD6XWBgQaCS+qG+KlNDgcf9wN\nkdO4XCV9y50vrgdLsa2RMQiXMW6Px6ukvDFA9S0bLTk30TuuPImqhVsTPQrBnX0h\nv0I2AX3Rnac3uUC6JXWtHtf+J3jyWLPPtX+cvcC2TfjeOYV2Q5gNTbyf4QKBgG69\n2nwiZvp2QrSddQS/N6yHqdR7DzwgYhlW5G4if8VCKGhTdPBKRupNU1VFZ2aBGSsf\n5QbzdNJhLtDZrexRNj1w3zRiD+TT+grRc8/Ws9qnvG/2ii3gcGO59So/PIWGCIm5\nP8NeAsyoCQXJhUTg4W1gMJait7iaFfLDmt/4qJTLAoGAL6F5tyXr/q77wdZTKxNv\nvZY2b3AzWKf//DU1GYhE2M2ASDHNaLcUp3psbVVjQW813pbhfmDgnFg8lfRBCRTt\nJmQzPyK8kHE7Igl6i57hXYWPInoi4CayYIxp6J5ZDpUAzXtLXZLtU2zhdVFt3gEs\neIanDxGHKf7mAxQCjrhe3vY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitter@plucky-function-339913.iam.gserviceaccount.com",
+  "client_id": "101867314672240076601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitter%40plucky-function-339913.iam.gserviceaccount.com"
+}

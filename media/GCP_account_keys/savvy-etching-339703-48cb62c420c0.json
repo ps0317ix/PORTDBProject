@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-etching-339703",
+  "private_key_id": "48cb62c420c0a2fbb240a969afa01ffc414f6797",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCe+v+e9FgEzdep\nIhJwGYPWNyGDGi5agpLvM2dJI+IgsLqdW8N5mglhlaTkGcJ90ZSuRvzsPUwTgwB4\nxulGbFUuGJ+Q6s2ohYiCnm1SIXEMowyIC8Nf7/fNlxOodTBqZ5NgD1MzRfst62ja\nD2qr/1UBUhS+7MRmyoa3Cjgcr+Uy2fua3yFrqSlloLLOy2MSYAPn3qCcg/fsVY+A\nzrJ/bFFnmrPJEwQ0sjE+7MoLtj4G6IFh4IJ7ad37hnrPAV3H+xWDFn6T6x13pMv5\nT5EpFh3pJfga/G+7kxSeuJOKp7Ea3dr1Lh2OrgURbqptfV1lJ1JCVd4X/wgsGSS1\nq/Uc7oZbAgMBAAECggEASuHlB2UGFHU0cJj44E5UV9Et+seZL86zEPJAYyYAu+8i\nZz4yy5MvegR3X212u7a89n2/YjLZI5Of5EOk2yPp10WH20WNyyPikcu3qGjSC+a8\n31PTGdw492CCxOU2Adh5hVSSluMOlal9gMCkORGSY4Xa+bciJ1ybqZmppnF/Xryp\nkLvAVYBgAQrClae2cevOjOusixb5bQtUhyL8BnbbyKGeF2vzwqs9A7GsFkSnbpio\nlJyOPURkucQ57PsJrOZcOCO7QHrrrAJ8Bba8XmheulQ+0pUzCHWEGoGjc9zUkFyK\nvVJAfHk0Y9YFYwxAlEgtGsLVEhVyGgweTSi4Au7iuQKBgQDYTXByouJKENmOF8zl\n1ggndgW+4U35GQ2onAD6m6WUyDBWZ3/4s9oCiY/n4unC0+X/2LP26NSIhDihr3G2\nCBeEwiqcgs9nI/L0dEh+ueEFlVJyM2exWaek4t+5mOZb1dma7Lxb/SkN+bfNpG3T\nCWdPhwcNsUGlsKeghF2kYRr9NQKBgQC8KGSIC4nuMF+EDIj5mitbO2asara1X4LW\nGKoZGyzdSQO5JwISUsjXw5ittthkg/mDyhEDaNSgfhJY/jcBOXUTSpIj3NO6DRX7\nHK1sPUKadyWXJbzaM07O4WRiHPGBFJvdKeYaDMYu8CcbmumcYhinCyeKD1N9Cnss\nygo6PuQ3TwKBgFfScVKKIdiyqLJRpYa39Q2YlNKghdkau/n2hUs7QOp8sWuTkFj5\nJQ4crkoXTpQlFuBfKwqYFBrtnFTBeCjRdkMX1tc/IVieNvnb8MdLTzrGGvh1OKfA\nYBnJZ87ibr1gwX5umje7PR0IhAFBvrmNut2GVG3Rx3avmA/LTn38U0n1AoGAeWUq\nL2gabpXBGmYn/bpNHMh/XuBezzg3JsC1Bgu1b3PLNisHuCC3OhYVLIbaqEdJtZCq\nV2PMQ1vzpH0nqd+TPIYRMZgo9lG5C9Gdxkbj8NrMYu9TIAiYYPukk3SPEDPmt9Nv\nhQEW4HPLF5FkBaR4uVWGBhoLSJJ5lBUqchffkBsCgYEArM8QeHIg5BEBMxwdllh5\nQHC9IkX0wmoho8lRnW+JNtlKMxTTeJ2ahFyKMz8GtrBau/opgYOyrphpvGxQmUCK\n70H8E0GgWEkq52+OZOS52AKHNVj+MfP69co7tM8kGRdSD4pKuxBYhwiQ6slUplNx\nbeY/wXjkPU9CiGog3T4o8bQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "port-460@savvy-etching-339703.iam.gserviceaccount.com",
+  "client_id": "102739305105400941161",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/port-460%40savvy-etching-339703.iam.gserviceaccount.com"
+}
